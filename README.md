@@ -255,6 +255,8 @@ The project provides practical experience in embedded systems, IoT architecture,
 
 # Author
 
-**Arghavan Memari**
+- Arghavan Memari
+- Erfan Faghihi
+- Alireza Montajab
 
 Embedded Systems Course Project
